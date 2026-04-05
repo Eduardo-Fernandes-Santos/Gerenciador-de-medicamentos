@@ -20,7 +20,7 @@ Este projeto é uma aplicação de Linha de Comando (CLI) simples e direta, volt
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Eduardo-Fernandes-Santos/Gerenciador-de-medicamentos.git](https://github.com/Eduardo-Fernandes-Santos/Gerenciador-de-medicamentos.git)
+   git clone https://github.com/Eduardo-Fernandes-Santos/Gerenciador-de-medicamentos.git
    cd Gerenciador-de-medicamentos
    ```
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
