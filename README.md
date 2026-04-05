@@ -48,4 +48,5 @@ O projeto conta com testes cobrindo os cenários de sucesso, erro de validação
   python -m pytest tests/
   ```
 👨‍💻 Autor
+
 Desenvolvido por Eduardo Fernandes.
