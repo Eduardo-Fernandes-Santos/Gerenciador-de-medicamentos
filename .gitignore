@@ -1,0 +1,10 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testes
+.pytest_cache/
+
+# Banco de dados local
+medicamentos.json
